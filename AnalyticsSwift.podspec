@@ -23,5 +23,5 @@ Pod::Spec.new do |s|
     'Sources/**/*.swift'
   ]
 
-  s.dependency = 'Sovran'
+  s.dependency = ['Sovran']
 end
