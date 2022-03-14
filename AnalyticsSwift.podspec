@@ -22,6 +22,4 @@ Pod::Spec.new do |s|
   s.source_files = [
     'Sources/**/*.swift'
   ]
-
-  s.dependency = 'Sovran', :git => 'https://github.com/segmentio/sovran-swift.git', :branch => '1.0.3-podspec'
 end
