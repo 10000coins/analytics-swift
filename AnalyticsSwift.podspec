@@ -23,5 +23,5 @@ Pod::Spec.new do |s|
     'Sources/**/*.swift'
   ]
 
-  s.dependency 'Sovran', :podspec => "https://github.com/10000coins/Sovran-Swift/blob/1.0.3-podspec/sovran.podspec"
+  s.dependency 'Sovran'
 end
